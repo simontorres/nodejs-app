@@ -1,0 +1,219 @@
+{time_stamp: '15:44:00',log_level:'I', message:"Starting Goodman HTS Pipeline Log"}
+{time_stamp: '15:44:00',log_level:'I', message:"Local Time    : 2018-09-24 15:44:00.362357"}
+{time_stamp: '15:44:00',log_level:'I', message:"Universal Time: 2018-09-24 18:44:00.362437"}
+{time_stamp: '15:44:01',log_level:'W', message:"Running Development version: 1.1.2.dev5"}
+{time_stamp: '15:44:01',log_level:'I', message:"Latest Release: 1.1.1"}
+{time_stamp: '15:44:32',log_level:'E', message:"There is no flat available"}
+{time_stamp: '15:44:33',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:33',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:44:33',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/czto_0180_20180903.fits"}
+{time_stamp: '15:44:34',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:34',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:44:34',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0241_20180903.fits"}
+{time_stamp: '15:44:34',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:34',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:44:34',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0242_20180903.fits"}
+{time_stamp: '15:44:34',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:44:35',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0242_20180903.fits"}
+{time_stamp: '15:44:35',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0242_20180903.fits"}
+{time_stamp: '15:44:35',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:35',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:44:36',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0243_20180903.fits"}
+{time_stamp: '15:44:36',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:44:37',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0243_20180903.fits"}
+{time_stamp: '15:44:37',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0243_20180903.fits"}
+{time_stamp: '15:44:37',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:37',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:44:37',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0244_20180903.fits"}
+{time_stamp: '15:44:37',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:44:38',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0244_20180903.fits"}
+{time_stamp: '15:44:38',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0244_20180903.fits"}
+{time_stamp: '15:44:38',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:38',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:44:38',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0245_20180903.fits"}
+{time_stamp: '15:44:39',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:39',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:44:39',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0276_20180903.fits"}
+{time_stamp: '15:44:40',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:40',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:44:40',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0278_20180903.fits"}
+{time_stamp: '15:44:40',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:44:41',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0278_20180903.fits"}
+{time_stamp: '15:44:41',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0278_20180903.fits"}
+{time_stamp: '15:44:41',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:41',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:44:41',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0279_20180903.fits"}
+{time_stamp: '15:44:41',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:44:42',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0279_20180903.fits"}
+{time_stamp: '15:44:42',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0279_20180903.fits"}
+{time_stamp: '15:44:42',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:42',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:44:42',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0280_20180903.fits"}
+{time_stamp: '15:44:42',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:44:44',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0280_20180903.fits"}
+{time_stamp: '15:44:44',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0280_20180903.fits"}
+{time_stamp: '15:44:44',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:44',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:44:44',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0281_20180903.fits"}
+{time_stamp: '15:44:45',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:45',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:44:45',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0290_20180903.fits"}
+{time_stamp: '15:44:45',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:45',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:44:45',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0291_20180903.fits"}
+{time_stamp: '15:44:45',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:44:46',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0291_20180903.fits"}
+{time_stamp: '15:44:46',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0291_20180903.fits"}
+{time_stamp: '15:44:47',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:47',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:44:47',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0292_20180903.fits"}
+{time_stamp: '15:44:47',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:44:48',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0292_20180903.fits"}
+{time_stamp: '15:44:48',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0292_20180903.fits"}
+{time_stamp: '15:44:48',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:48',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:44:48',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0293_20180903.fits"}
+{time_stamp: '15:44:49',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:49',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:44:49',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0181_20180903.fits"}
+{time_stamp: '15:44:49',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:49',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:44:49',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0182_20180903.fits"}
+{time_stamp: '15:44:49',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:44:50',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0182_20180903.fits"}
+{time_stamp: '15:44:50',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0182_20180903.fits"}
+{time_stamp: '15:44:50',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:50',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:44:50',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0183_20180903.fits"}
+{time_stamp: '15:44:50',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:44:51',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0183_20180903.fits"}
+{time_stamp: '15:44:51',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0183_20180903.fits"}
+{time_stamp: '15:44:51',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:51',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:44:51',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0184_20180903.fits"}
+{time_stamp: '15:44:52',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:52',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:44:52',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0185_20180903.fits"}
+{time_stamp: '15:44:53',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:53',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:44:53',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0186_20180903.fits"}
+{time_stamp: '15:44:53',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:44:54',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0186_20180903.fits"}
+{time_stamp: '15:44:54',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0186_20180903.fits"}
+{time_stamp: '15:44:54',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:54',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:44:54',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0187_20180903.fits"}
+{time_stamp: '15:44:55',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:55',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:44:55',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0188_20180903.fits"}
+{time_stamp: '15:44:56',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:56',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:44:56',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0189_20180903.fits"}
+{time_stamp: '15:44:56',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:44:57',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0189_20180903.fits"}
+{time_stamp: '15:44:57',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0189_20180903.fits"}
+{time_stamp: '15:44:57',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:57',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:44:57',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0190_20180903.fits"}
+{time_stamp: '15:44:58',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:58',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:44:58',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0263_20180903.fits"}
+{time_stamp: '15:44:58',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:44:58',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:44:58',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0264_20180903.fits"}
+{time_stamp: '15:44:58',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:45:00',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0264_20180903.fits"}
+{time_stamp: '15:45:00',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0264_20180903.fits"}
+{time_stamp: '15:45:00',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:45:00',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:45:00',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0265_20180903.fits"}
+{time_stamp: '15:45:00',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:45:01',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0265_20180903.fits"}
+{time_stamp: '15:45:01',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0265_20180903.fits"}
+{time_stamp: '15:45:01',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:45:01',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:45:01',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0266_20180903.fits"}
+{time_stamp: '15:45:01',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:45:03',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0266_20180903.fits"}
+{time_stamp: '15:45:03',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0266_20180903.fits"}
+{time_stamp: '15:45:03',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:45:03',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:45:03',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0267_20180903.fits"}
+{time_stamp: '15:45:04',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:45:04',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:45:04',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0285_20180903.fits"}
+{time_stamp: '15:45:04',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:45:04',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:45:04',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0286_20180903.fits"}
+{time_stamp: '15:45:04',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:45:05',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0286_20180903.fits"}
+{time_stamp: '15:45:05',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0286_20180903.fits"}
+{time_stamp: '15:45:06',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:45:06',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:45:06',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0287_20180903.fits"}
+{time_stamp: '15:45:06',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:45:07',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0287_20180903.fits"}
+{time_stamp: '15:45:07',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0287_20180903.fits"}
+{time_stamp: '15:45:07',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:45:07',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:45:07',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0288_20180903.fits"}
+{time_stamp: '15:45:07',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:45:08',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0288_20180903.fits"}
+{time_stamp: '15:45:08',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0288_20180903.fits"}
+{time_stamp: '15:45:09',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:45:09',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:45:09',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0289_20180903.fits"}
+{time_stamp: '15:45:10',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:45:10',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:45:10',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0227_20180903.fits"}
+{time_stamp: '15:45:10',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:45:10',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:45:10',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0228_20180903.fits"}
+{time_stamp: '15:45:10',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:45:11',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0228_20180903.fits"}
+{time_stamp: '15:45:11',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0228_20180903.fits"}
+{time_stamp: '15:45:11',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:45:11',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:45:11',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0229_20180903.fits"}
+{time_stamp: '15:45:11',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:45:12',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0229_20180903.fits"}
+{time_stamp: '15:45:12',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0229_20180903.fits"}
+{time_stamp: '15:45:13',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:45:13',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:45:13',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0230_20180903.fits"}
+{time_stamp: '15:45:13',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:45:14',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0230_20180903.fits"}
+{time_stamp: '15:45:14',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0230_20180903.fits"}
+{time_stamp: '15:45:14',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:45:14',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:45:14',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0231_20180903.fits"}
+{time_stamp: '15:45:14',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:45:15',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0231_20180903.fits"}
+{time_stamp: '15:45:15',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0231_20180903.fits"}
+{time_stamp: '15:45:16',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:45:16',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:45:16',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0232_20180903.fits"}
+{time_stamp: '15:45:17',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:45:17',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:45:17',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0252_20180903.fits"}
+{time_stamp: '15:45:17',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:45:17',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:45:17',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0253_20180903.fits"}
+{time_stamp: '15:45:17',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:45:18',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0253_20180903.fits"}
+{time_stamp: '15:45:18',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0253_20180903.fits"}
+{time_stamp: '15:45:19',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:45:19',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:45:19',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0254_20180903.fits"}
+{time_stamp: '15:45:19',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:45:20',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0254_20180903.fits"}
+{time_stamp: '15:45:20',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0254_20180903.fits"}
+{time_stamp: '15:45:20',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:45:20',log_level:'W', message:"DCR does apply the correction to images if you want the mask use --keep-cosmic-files"}
+{time_stamp: '15:45:20',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0255_20180903.fits"}
+{time_stamp: '15:45:20',log_level:'I', message:"Removing cosmic rays using DCR by Wojtek Pych"}
+{time_stamp: '15:45:21',log_level:'W', message:"Removing input file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/fzsto_0255_20180903.fits"}
+{time_stamp: '15:45:21',log_level:'W', message:"Removing cosmic rays file: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cosmic_0255_20180903.fits"}
+{time_stamp: '15:45:21',log_level:'I', message:"Setting cosmic ray rejection method to: dcr"}
+{time_stamp: '15:45:21',log_level:'I', message:"Changing cosmic ray rejection method from 'dcr' to 'none' for comparison lamp. Prefix 'c' will be added anyway."}
+{time_stamp: '15:45:21',log_level:'I', message:"Saving image: /home/goodman/data/NOAO/vivas/2018-09-03/RED/cfzsto_0256_20180903.fits"}
