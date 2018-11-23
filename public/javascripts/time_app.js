@@ -8,17 +8,17 @@ myapp.controller('timeController', function($scope, $interval) {
     $scope.updateTime = function() {
         let d = new Date();
         $scope.utc_time = d.getFullYear() +
-            '/' + d.getUTCMonth() +
-            '/' + d.getUTCDate() +
-            ' - ' + d.getUTCHours() +
-            ':' + d.getUTCMinutes() +
-            ':' + d.getUTCSeconds();
+            '/' + ('0' + parseInt(d.getUTCMonth() + 1)).slice(-2) +
+            '/' + ('0' + d.getUTCDate()).slice(-2) +
+            ' - ' + ('0' +d.getUTCHours()).slice(-2) +
+            ':' + ('0' +d.getUTCMinutes()).slice(-2) +
+            ':' + ('0' +d.getUTCSeconds()).slice(-2);
         $scope.local_time = d.getFullYear() +
-            '/' + d.getMonth() +
-            '/' + d.getDate() +
-            ' - ' + d.getHours() +
-            ':' + d.getMinutes() +
-            ':' + d.getSeconds();
+            '/' + ('0' + parseInt(d.getMonth() + 1)).slice(-2) +
+            '/' + ('0' + d.getDate()).slice(-2) +
+            ' - ' + ('0' +d.getHours()).slice(-2) +
+            ':' + ('0' +d.getMinutes()).slice(-2) +
+            ':' + ('0' +d.getSeconds()).slice(-2);
 
     };
     $interval($scope.updateTime, 1000)
