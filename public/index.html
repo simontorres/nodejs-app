@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <link rel="stylesheet" href="stylesheets/style.css">
+<!--Add a bootstrap-based stylesheet to make our UI look nice and modern-->
+<!--<link rel="stylesheet" href="https://bootswatch.com/4/solar/bootstrap.css">-->
+<link id="style_theme" rel="stylesheet" href="https://bootswatch.com/4/darkly/bootstrap.css">
+
 
 <html  lang="en">
 
@@ -22,33 +26,73 @@
 
         <div class="column time">
             <div ng-app="timeApp"  ng-controller="timeController">
-                <table>
-                    <tr><th></th><th></th></tr>
-                    <tr>
-                        <td style="text-align: right">Universal Time: </td>
-                        <td>{{utc_time}}</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align: right">Local Time: </td>
-                        <td>{{local_time}} </td>
-                    </tr>
+                <table style="overflow-x: auto;">
+                    <tr><th></th><th></th><th></th></tr>
+                    <tr><td>UT</td><td>:</td><td>{{utc_time}}</td></tr>
+                    <tr><td>LT</td><td>:</td><td>{{local_time}}</td></tr>
                 </table>
             </div>
 
         </div>
     </div>
 
+
+
     <div class="column-container">
-        <div class="column" style="background-color: aqua;width: 100%">
-            s
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+                <a class="nav-link active" data-toggle="tab" href="#home" onclick="selectTab(event, 'home')">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#settings" onclick="selectTab(event, 'settings')">Settings</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#help" onclick="selectTab(event, 'help')">Help</a>
+            </li>
+
+        </ul>
+        <div id="myTabContent" class="tab-content">
+            <div class="tab-pane fade show active" id="home">
+                <p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terry richardson ex squid. Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui.</p>
+            </div>
+
+            <!--settings-->
+            <div class="tab-pane fade" id="settings">
+                <fieldset>
+                    <legend>Page Style</legend>
+                    <div class="form-group">
+                        <div class="custom-control custom-radio">
+                            <input id="darkly_style" name="styleRadio" class="custom-control-input" checked="" type="radio" onclick="selectStyle(event, 'darkly')">
+                            <label class="custom-control-label" for="darkly_style">Darkly</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input id="solar_style" name="styleRadio" class="custom-control-input" type="radio" onclick="selectStyle(event, 'solar')">
+                            <label class="custom-control-label" for="solar_style">Solar</label>
+                        </div>
+                        <div class="custom-control custom-radio">
+                            <input id="superhero_style" name="styleRadio" class="custom-control-input" type="radio" onclick="selectStyle(event, 'superhero')">
+                            <label class="custom-control-label" for="superhero_style">Superhero</label>
+                        </div>
+                    </div>
+                </fieldset>
+            </div>
+            <div class="tab-pane fade" id="help">
+                <p>Help is on the way.</p>
+            </div>
+
+        </div>
+
+
+        <div class="footer">
+            footer
         </div>
     </div>
 
-    <div class="footer">
-        footer
-    </div>
+
 
 
     <script src="javascripts/time_app.js"></script>
+    <script src="javascripts/tabs_mng.js"></script>
+    <script src="javascripts/change_stylesheet.js"></script>
 </body>
 </html>
